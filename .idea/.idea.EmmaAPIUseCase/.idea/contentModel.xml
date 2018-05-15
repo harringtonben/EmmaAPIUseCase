@@ -20,6 +20,9 @@
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
+      <e p="Services" t="Include">
+        <e p="EmmaAPI.cs" t="Include" />
+      </e>
       <e p="Startup.cs" t="Include" />
       <e p="wwwroot" t="Include" />
     </e>

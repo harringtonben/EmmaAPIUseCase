@@ -1,0 +1,11 @@
+/Users/benharrington/workspace/EmmaAPIUseCase/bin/Debug/netcoreapp2.0/EmmaAPIUseCase.deps.json
+/Users/benharrington/workspace/EmmaAPIUseCase/bin/Debug/netcoreapp2.0/EmmaAPIUseCase.runtimeconfig.json
+/Users/benharrington/workspace/EmmaAPIUseCase/bin/Debug/netcoreapp2.0/EmmaAPIUseCase.runtimeconfig.dev.json
+/Users/benharrington/workspace/EmmaAPIUseCase/bin/Debug/netcoreapp2.0/EmmaAPIUseCase.dll
+/Users/benharrington/workspace/EmmaAPIUseCase/bin/Debug/netcoreapp2.0/EmmaAPIUseCase.pdb
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.csprojAssemblyReference.cache
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.csproj.CoreCompileInputs.cache
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.AssemblyInfoInputs.cache
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.AssemblyInfo.cs
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.dll
+/Users/benharrington/workspace/EmmaAPIUseCase/obj/Debug/netcoreapp2.0/EmmaAPIUseCase.pdb
