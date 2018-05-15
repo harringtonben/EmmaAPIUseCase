@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using EmmaAPIUseCase.Models;
+using EmmaAPIUseCase.Services;
 using Microsoft.AspNetCore.Mvc;
 
 namespace EmmaAPIUseCase.Controllers
@@ -11,9 +13,12 @@ namespace EmmaAPIUseCase.Controllers
     {
         // GET api/values
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get()
         {
-            return new string[] {"value1", "value2"};
+            var emmaConnect = new EmmaService();
+            var contacts = emmaConnect.GetEmmaMembers();
+
+            return Ok(contacts);
         }
 
         // GET api/values/5

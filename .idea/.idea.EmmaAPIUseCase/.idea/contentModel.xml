@@ -11,6 +11,9 @@
       </e>
       <e p="EmmaAPIUseCase.csproj" t="IncludeRecursive" />
       <e p="EmmaAPIUseCase.sln" t="IncludeFlat" />
+      <e p="Models" t="Include">
+        <e p="Member.cs" t="Include" />
+      </e>
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp2.0" t="Include">
@@ -21,7 +24,7 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Program.cs" t="Include" />
       <e p="Services" t="Include">
-        <e p="EmmaAPI.cs" t="Include" />
+        <e p="EmmaService.cs" t="Include" />
       </e>
       <e p="Startup.cs" t="Include" />
       <e p="wwwroot" t="Include" />
